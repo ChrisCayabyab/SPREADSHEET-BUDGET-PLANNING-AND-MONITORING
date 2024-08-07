@@ -20,3 +20,5 @@ First time using this:
 - You can now use it
 
 Please dont use the original copy to let other people interested in this spreadsheet capable of making their own copy.
+
+STILL UPDATING...
