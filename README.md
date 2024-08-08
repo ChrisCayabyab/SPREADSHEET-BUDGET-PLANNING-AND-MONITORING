@@ -22,3 +22,5 @@ First time using this:
 Please dont use the original copy to let other people interested in this spreadsheet capable of making their own copy.
 
 STILL UPDATING...
+
+addtional feature will be added on august 9
