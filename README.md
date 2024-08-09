@@ -23,4 +23,4 @@ Please dont use the original copy to let other people interested in this spreads
 
 STILL UPDATING...
 
-addtional feature will be added on august 9
+addtional feature will be added on august 13
