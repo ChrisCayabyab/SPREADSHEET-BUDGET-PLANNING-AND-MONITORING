@@ -1,6 +1,4 @@
 # Budgeting-Spreadsheet-using-Macro-Buttons
-LINK: 
-https://docs.google.com/spreadsheets/d/1zQnL9DSRGLuGxdNlDdsTNuqmwcvWExZZlXfgqqgFELI/edit?usp=sharing
 
 MAIN SHEET: DASHBOARD ( CAPITAL INPUT AND ALLOCATIONS)<BR>
 ![image](https://github.com/user-attachments/assets/90a21db1-83c4-457b-8487-f7165450d527)<BR>
@@ -12,5 +10,4 @@ SETTINGS SHEET<BR>
 
 YOU MAY EMAIL ME:
  @cayabyab.chrisdaniel@gmail.com 
-
 TO PURCHASE A COPY OF THIS SPREADSHEET FOR 20USD
