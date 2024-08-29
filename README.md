@@ -10,4 +10,4 @@ SETTINGS SHEET<BR>
 
 YOU MAY EMAIL ME:
  @cayabyab.chrisdaniel@gmail.com 
-TO PURCHASE A COPY OF THIS SPREADSHEET FOR 20USD
+or go to https://www.raket.ph/danndorm
