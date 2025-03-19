@@ -1,13 +1,8 @@
 # Budgeting-Spreadsheet-using-Macro-Buttons
 
-FOR A COPY:
-https://docs.google.com/spreadsheets/d/1vNFdygvA2uHr--cURTpFLQ4xsCsVwkCXxhqAInkYAGI/copy
-
-MAIN SHEET: DASHBOARD ( CAPITAL INPUT AND ALLOCATIONS)<BR>
-![image](https://github.com/user-attachments/assets/90a21db1-83c4-457b-8487-f7165450d527)<BR>
-EXPENSES SHEET<BR>
-![image](https://github.com/user-attachments/assets/20e12aef-4af6-409a-850f-6091497cf871)<BR>
-SETTINGS SHEET<BR>
-![image](https://github.com/user-attachments/assets/966e8ab3-4808-4469-b18b-f006bafa3780)<BR>
-
-
+### Dashboard
+![image](https://github.com/user-attachments/assets/4c3508d9-e018-46ea-9337-002e110fd6f5)
+### Inputs
+![image](https://github.com/user-attachments/assets/bbdf9ea0-2d75-416b-bdb7-40cc833ac5ca)
+### Expenses
+![image](https://github.com/user-attachments/assets/5fe1b163-8815-4b5d-a3dc-a29ade30eba7)
