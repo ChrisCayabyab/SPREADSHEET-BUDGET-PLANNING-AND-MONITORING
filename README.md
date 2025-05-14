@@ -1,5 +1,7 @@
 # Budgeting Spreadsheet
 
+# LEGEND:
+## Every green colored cell has codes in it; type only in white colored cells.
 https://github.com/user-attachments/assets/806a2d83-5ed5-4e74-a644-919a99e58185
 
 FOR A COPY OF THIS SPREADSHEET(PASTE THIS ON YOUR BROWSER): https://docs.google.com/spreadsheets/d/16No-VLHDI8X5gGMnIUSC3UZNT9rviRITsqSJYm8EbPM/copy
@@ -9,8 +11,8 @@ Back in college, I kept ending up with a negative balance almost every week.
 That pushed me to take budgeting seriously—not just to manage my money better, but also to improve my financial habits.
 
 I started by creating a simple budgeting spreadsheet tailored to my needs. 
-Over several months, I kept tweaking and improving it until it became the fully automated tool it is today. 
-It's a personal project that grew alongside my journey in financial literacy and spreadsheet skills.
+Over several months, I tweaked and improved it until it became a fully automated tool. 
+It's a personal project that grew alongside my financial literacy and spreadsheet skills journey.
 
 🧮 **Dynamic Budgeting Spreadsheet (Google Sheets)**  
 A fully automated personal budgeting tool made in Google Sheets—no pivot tables or scripts needed!  
