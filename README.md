@@ -1,7 +1,8 @@
 # Budgeting Spreadsheet
 
 # LEGEND:
-## Every green colored cell has codes in it; type only in white colored cells.
+## Every green colored cell has codes in it; 
+## Type only in the INPUT AND the EXPENSES Sheet, white and grey colored cells.
 https://github.com/user-attachments/assets/806a2d83-5ed5-4e74-a644-919a99e58185
 
 FOR A COPY OF THIS SPREADSHEET(PASTE THIS ON YOUR BROWSER): https://docs.google.com/spreadsheets/d/16No-VLHDI8X5gGMnIUSC3UZNT9rviRITsqSJYm8EbPM/copy
