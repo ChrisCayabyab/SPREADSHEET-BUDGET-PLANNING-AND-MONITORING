@@ -2,26 +2,30 @@
 
 https://github.com/user-attachments/assets/806a2d83-5ed5-4e74-a644-919a99e58185
 
-FOR A COPY OF THIS SPREADSHEET(PASTE THIS ON YOUR BROWSER): https://docs.google.com/spreadsheets/d/1I6qzd6V2UV2aMT_xGdrSQYYLYDZpRCEfJ5D6RB3wb2s/copy
+FOR A COPY OF THIS SPREADSHEET(PASTE THIS ON YOUR BROWSER): https://docs.google.com/spreadsheets/d/16No-VLHDI8X5gGMnIUSC3UZNT9rviRITsqSJYm8EbPM/copy
 
-🧮 Dynamic Budgeting Spreadsheet (Google Sheets)
-A fully automated personal budgeting system built in Google Sheets—without using pivot tables or scripts. This project showcases my advanced skills in spreadsheet engineering, leveraging only native formulas to perform:
+## 💡 Story & Motivation
+Back in college, I kept ending up with a negative balance almost every week. 
+That pushed me to take budgeting seriously—not just to manage my money better, but also to improve my financial habits.
 
-Data Input & Structuring
-Organized capital and expense tracking inputs by week, category, and specifics.
+I started by creating a simple budgeting spreadsheet tailored to my needs. 
+Over several months, I kept tweaking and improving it until it became the fully automated tool it is today. 
+It's a personal project that grew alongside my journey in financial literacy and spreadsheet skills.
 
-Data Cleaning & Aggregation
-Uses functions and simple tables to simulate pivot-table behavior.
+🧮 **Dynamic Budgeting Spreadsheet (Google Sheets)**  
+A fully automated personal budgeting tool made in Google Sheets—no pivot tables or scripts needed!  
+I built this using only native formulas to handle everything from input to analytics:
 
-Visualization & Analytics
-Interactive dashboard that includes:
+### 📌 Input & Organization
+- Track income and expenses by week, category, and details.
 
-Weekly and monthly cash flow breakdowns
+### 🧹 Data Cleanup & Summary
+- Clean and group data with formulas—like a pivot table, but simpler.
 
-Category-wise savings/expenses
+### 📊 Dashboard & Insights
+Includes an interactive dashboard with:
+- Weekly and monthly cash flow  
+- Spending and savings by category  
+- Live bar and pie charts  
+- Trends over time
 
-Real-time bar and pie charts
-
-Trend tracking over time
-
-This project demonstrates how far spreadsheet formulas alone can be pushed to replicate database-like behavior and analytical dashboards.
